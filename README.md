@@ -1,6 +1,8 @@
 # BlockzincirNotlar-
 Linux Yaz Kampı Blokzincir Notları
 
+https://medium.com/@coskunnuresma/blokzincir-teknolojileri-ders-notlar%C4%B1m-lkd-linux-yaz-kamp%C4%B1-2019-dc43556ee816
+
 I. Kriptolojiye Giriş
 Hash Fonksiyonu: Uzun girdileri matematiksel fonksiyonlarla sabit uzunlukta eşsiz bir değere çevirme işlemidir.
  i.Avantajları: Veri girişinde değişiklik olduğunda hash fonksiyonu değişeceği için, girilen veride değişiklik yapılıp yapılmadığını kontrol etmek için kullanabiliriz.
